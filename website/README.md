@@ -2,10 +2,6 @@
 
 **To get started, open this in Repl.it**: [https://repl.it/@chessmyers/Website](https://repl.it/@chessmyers/Website)
 
-In this folder, you will create your own interactive personal site! As you may have noticed, no starter files have been provided. It is up to you to create them and fill them in using your IDE
-
-**Hint: in most IDE's, such as VS Code, you can click on a folder (so in this case, the folder 'website') and you should get an option for "New File". In Stackblitz there is a "New File" button in the "Files" header
-
 You will want three files for this site: `index.html`, `styles.css`, and `script.js`. Note that while you generally should call the home page of your site `index.html` by convention, you can call your CSS and JavaScript files whatever you want.
 
 This site will have various features:
@@ -23,9 +19,9 @@ This may not be the most attractive page on the web. But it will be your own, an
 
 ## Tips for Getting Started
 
-1. Start by making your three files: "index.html, style.css, and script.js"
-2. Start by writing the HTML
-3. **Feel free** (in fact, we encourage) you copy over contents from the files you already wrote OR the template.html file in the Github repo
-4. Add styling next--again, refer back to your past stylesheets and/or copy from them
-5. If you're making it interactive, add JS last. 
-6. **Ask questions** if you have any
+1. Start by writing the HTML
+2. **Feel free** (in fact, we encourage) you copy over contents from the files you already wrote OR the template.html file in the Github repo
+3. Add styling next--again, refer back to your past stylesheets and/or copy from them
+4. If you're making it interactive, add JS last. 
+5. **Ask questions** if you have any
+6. Refer to documentation and guides, especially those on [https://www.w3schools.com/](https://www.w3schools.com/)
