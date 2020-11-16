@@ -1,6 +1,6 @@
 # Intro to Web Coding: Your Food Blog!
 
-**To get started, open this in Repl.it**: [https://repl.it/@chessmyers/NUWIT-Workshop-Intro-to-Web-Website](https://repl.it/@chessmyers/NUWIT-Workshop-Intro-to-Web-Website)
+**To get started, open this in Repl.it**: [https://repl.it/@chessmyers/Website](https://repl.it/@chessmyers/Website)
 
 In this folder, you will create your own interactive personal site! As you may have noticed, no starter files have been provided. It is up to you to create them and fill them in using your IDE
 
