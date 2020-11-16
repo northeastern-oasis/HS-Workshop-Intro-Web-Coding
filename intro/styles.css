@@ -1,0 +1,36 @@
+/* Your CSS code goes below! */
+/* This code will change what HTML elements look like to make them prettier */
+/* These lines are CSS comments, by the way */
+
+/* For more help writing CSS, check out: */
+/* https://raw.githubusercontent.com/iLoveCodingOrg/css-cheatsheet/master/css-cheatsheet.gif */
+
+/* A listing of all CSS styles can be found here: */
+/* https://www.w3schools.com/cssref/default.asp */
+/* Also DON'T worry about trying to memorize all these--literally nobody does! We just Google it! */
+
+/* For an exercise, you can try: */
+/* 1. Add CSS rules to make all headers orange and twice as large */
+/* 2. Add a class to your first paragraph element: 'fun-text' */
+/* 3. Add CSS rules to fun-text to make it pink and italicized */
+/* 4. Add a class to your image element: 'rounded' */
+/* 5. Add CSS rules to make this image rounded */
+
+/* This styles all h1 elements in your HTML, no matter what class they have */
+h1 {
+	/* This makes our font color blue */
+	color: blue;
+	
+	/* This doubles the size of our font */
+	font-size: 200%;
+	
+	/* Now add your own or change the ones above! (Check out links above) */
+	
+	
+	
+}
+
+/* This styles all HTML elements with the class 'fun-text' */
+.fun-text {
+	
+}
